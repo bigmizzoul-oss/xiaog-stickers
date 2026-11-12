@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "count": 24,
+  "stickers": [
+    {
+      "id": "01",
+      "name": "爱你",
+      "file": "images/sticker-01.png",
+      "tags": [
+        "爱你"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "哼",
+      "file": "images/sticker-02.png",
+      "tags": [
+        "哼"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "困了",
+      "file": "images/sticker-03.png",
+      "tags": [
+        "困了"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "吃蛋糕",
+      "file": "images/sticker-04.png",
+      "tags": [
+        "吃蛋糕"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "喝茶",
+      "file": "images/sticker-05.png",
+      "tags": [
+        "喝茶"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "继续干活",
+      "file": "images/sticker-06.png",
+      "tags": [
+        "继续干活"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "疑惑",
+      "file": "images/sticker-07.png",
+      "tags": [
+        "疑惑"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "有了",
+      "file": "images/sticker-08.png",
+      "tags": [
+        "有了"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "什么",
+      "file": "images/sticker-09.png",
+      "tags": [
+        "什么"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "害羞",
+      "file": "images/sticker-10.png",
+      "tags": [
+        "害羞"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "气死我了",
+      "file": "images/sticker-11.png",
+      "tags": [
+        "气死我了"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "不予理会",
+      "file": "images/sticker-12.png",
+      "tags": [
+        "不予理会"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "不错",
+      "file": "images/sticker-13.png",
+      "tags": [
+        "不错"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "呜呜",
+      "file": "images/sticker-14.png",
+      "tags": [
+        "呜呜"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "打游戏",
+      "file": "images/sticker-15.png",
+      "tags": [
+        "打游戏"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "赚钱",
+      "file": "images/sticker-16.png",
+      "tags": [
+        "赚钱"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "又亏了",
+      "file": "images/sticker-17.png",
+      "tags": [
+        "又亏了"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "摆烂",
+      "file": "images/sticker-18.png",
+      "tags": [
+        "摆烂"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "想润",
+      "file": "images/sticker-19.png",
+      "tags": [
+        "想润"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "抱抱",
+      "file": "images/sticker-20.png",
+      "tags": [
+        "抱抱"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "本公主生气了",
+      "file": "images/sticker-21.png",
+      "tags": [
+        "本公主生气了"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "又亏了_账单版",
+      "file": "images/sticker-22.png",
+      "tags": [
+        "又亏了_账单版"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "不予理会_转身离去",
+      "file": "images/sticker-23.png",
+      "tags": [
+        "不予理会_转身离去"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "陛下发工资",
+      "file": "images/sticker-24.png",
+      "tags": [
+        "陛下发工资"
+      ]
+    }
+  ]
+}
